@@ -9,6 +9,7 @@
     display: block;
     max-width: 100%;
     height: auto;
+    flex-shrink: 0; //don't stretch img on ie11 with flex box
   }
   
 // Ajout CB
