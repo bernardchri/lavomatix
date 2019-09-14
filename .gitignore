@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/node,macos,phpstorm,sublimetext,visualstudiocode,windows,linux
 # Edit at https://www.gitignore.io/?templates=node,macos,phpstorm,sublimetext,visualstudiocode,windows,linux
 
+node_modules
+
 ### Laravel-mix ###
 mix-manifest.json
 
