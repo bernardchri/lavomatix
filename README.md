@@ -38,3 +38,14 @@ These scripts will generate files in the ".env" configuration location
 
 #### Credits and documentation
 [Laravel Mix](https://laravel-mix.com/docs/2.1/installation)
+
+### install usefull lib
+- npm install intersection-observer (polyfill intersection observer)
+- npm install tiny-slider (slider)
+- npm install body-scroll-lock
+- npm install gsap
+- npm install textFit ( resize text )
+- npm install vanilla-tilt (tilt effect)
+- 
+
+
