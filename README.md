@@ -46,6 +46,6 @@ These scripts will generate files in the ".env" configuration location
 - npm install gsap
 - npm install textFit ( resize text )
 - npm install vanilla-tilt (tilt effect)
-- 
+- npm install body-scroll-lock ( bloc scroll)
 
 
